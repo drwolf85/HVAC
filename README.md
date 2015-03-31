@@ -20,7 +20,7 @@ A `README.md` file is present in each folder. It describes the file included, th
      * `igraph` for dealing with graphs and network analysis
      * `stats` for dealing with standard statistical functions
      * `quantreg` for the median-LASSO regression
-     * `Rcpp` for interfacing R with Cpp scripts
+     * `Rcpp` for interfacing R with C++ scripts
      * `biglm` for iterative regression of big linear models
 
 ## Aknoledgments

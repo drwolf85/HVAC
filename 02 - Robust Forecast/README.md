@@ -24,3 +24,9 @@ The final results are stored in `.RData` files.
  * `npfit.cpp` is a Cpp script file including the functions for a recurrent median-LASSO fitting of the multi-interactions Kernel-based additive model.
  * `benchforex.cpp` is a Cpp script file containing all the functions to calculate the benchmark indices of forecast performance (such as the RMSE, MAE, MAPE and many more).
  * `merge.R` is an R script file which is used to merge the results containing the forecast errors.
+
+## Data files
+
+ * `pmv.RData` contains the data-set with only the variables which showed a significant entropic relationship with thermal comfort, and hence directly connected to the *PMV index*.
+ * `dgi.RData` contains the data-set with only the variables which showed a significant entropic relationship with visual comfort, and hence directly connected to the *DGI index*.
+

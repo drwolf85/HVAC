@@ -20,5 +20,4 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 
-[<img alt = "Ca' Foscari University of Venice" align="left" height="128" src="https://www.unive.it/media/allegato/CFSS/logo-eng.jpg"/>](https://www.unive.it/)
-
+[<img alt = "Ca' Foscari University of Venice" align="left" height="128" src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Logo_Universit%C3%A0_Ca%27_Foscari_Venezia.svg"/>](https://www.unive.it/)
